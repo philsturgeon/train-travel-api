@@ -1,0 +1,21 @@
+{
+  "subdomain": "philsturgeon-train-travel-api",
+  "publishOnMerge": true,
+  "guides": [
+    {
+      "name": "Guides",
+      "sidebar": [
+        {
+          "path": "docs/getting-started.md",
+          "type": "page"
+        }
+      ]
+    }
+  ],
+  "references": [
+		{
+      "name": "API Reference",
+      "path": "openapi.yaml"
+    }
+  ]
+}
