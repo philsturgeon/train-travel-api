@@ -15,10 +15,6 @@
 		{
       "name": "API Reference",
       "path": "openapi.yaml"
-    },
-		{
-      "name": "API Reference (OASv3.2)",
-      "path": "openapi.32.yaml"
     }
   ]
 }
