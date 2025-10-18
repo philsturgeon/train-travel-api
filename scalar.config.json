@@ -1,5 +1,15 @@
 {
   "publishOnMerge": true,
+  "references": [
+		{
+      "name": "API Reference",
+      "path": "openapi.yaml"
+    },
+		{
+      "name": "API Reference (OASv3.2)",
+      "path": "openapi.32.yaml"
+    }
+  ],
   "guides": [
     {
       "name": "Guides",
@@ -9,16 +19,6 @@
           "type": "page"
         }
       ]
-    }
-  ],
-  "references": [
-		{
-      "name": "API Reference",
-      "path": "openapi.yaml"
-    },
-		{
-      "name": "API Reference (OASv3.2)",
-      "path": "openapi.32.yaml"
     }
   ]
 }
