@@ -1,5 +1,4 @@
 {
-  "subdomain": "philsturgeon-train-travel-api",
   "publishOnMerge": true,
   "guides": [
     {
@@ -16,6 +15,10 @@
 		{
       "name": "API Reference",
       "path": "openapi.yaml"
+    },
+		{
+      "name": "API Reference (OASv3.2)",
+      "path": "openapi.32.yaml"
     }
   ]
 }
